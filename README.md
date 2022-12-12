@@ -15,6 +15,8 @@ The task focuses on builing a simple web application using external API using a 
 ## Task 
 
 Create a web application to search books using API from [OpenLibrary](https://openlibrary.org) using a programming language of your choice.
+The total duration will be 12hrs (8:00am - 8:00pm).
+The final code
 
 OpenLibrary offers suite of [APIs](https://openlibrary.org/developers/api) to access Book related information. Use the API to build a simple Book search application. The applicable APIs for this functionality:
 * [Books](https://openlibrary.org/dev/docs/api/books) API - Retrieve a specific work or edition by identifier
@@ -39,5 +41,6 @@ Teams will be qualified based on the following critieria:
 * Could sucessfully build/compile the application based on instructions( weightage - 10% )
 * Search functionality implemented and working  ( weightage - 30% )
 * Usability and User Interface ( weightage - 20% )
-* Display individual Book details when selected ( weightage - 20% )
+* Display individual Book details when selected ( weightage - 10% )
 * Code quality and documentation (weightage - 20% )
+* Webapplication is hosted in a public site (weightage - 10%)
