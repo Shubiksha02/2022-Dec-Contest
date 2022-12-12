@@ -35,8 +35,8 @@ Bonus points if additional functionality is implemented, e.g., faceted search
 ## Selection
 
 Teams will be qualified based on the following critieria:
-* Sucessfully build the application based on instructions( weightage - 10% )
+* Could sucessfully build/compile the application based on instructions( weightage - 10% )
 * Search functionality implemented and working  ( weightage - 30% )
 * Usability and User Interface ( weightage - 20% )
-* Display individual Book details ( weightage - 20% )
+* Display individual Book details when selected ( weightage - 20% )
 * Code quality and documentation (weightage - 20% )
