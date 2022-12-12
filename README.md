@@ -10,6 +10,7 @@ The task focuses on builing a simple web application using external API using a 
 
 1. Basic knowledge on how to use Git and GitHub.
 2. A public GitHub repository to upload code and data.
+3. Team of 3 students (maximum of 5)
 
 ## Task 
 
