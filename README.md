@@ -1,2 +1,42 @@
-# 2022-Dec-Contest
-VPT 2022 Qualifier contest
+# 2022 - Venmurasu Programming Team Qualifier Contest
+
+## Objective
+
+The objective of this contest is to qualify the teams for VPT Programming Contest
+
+The task focuses on builing a simple web application using external API using a programming language(s) of their choice.
+
+## Pre-requisites
+
+1. Basic knowledge on how to use Git and GitHub.
+2. A public GitHub repository to upload code and data.
+
+## Task 
+
+Create a web application to search books using API from [OpenLibrary](https://openlibrary.org) using a programming language of your choice.
+
+OpenLibrary offers suite of [APIs](https://openlibrary.org/developers/api) to access Book related information. Use the API to build a simple Book search application. The applicable APIs for this functionality:
+* [Books](https://openlibrary.org/dev/docs/api/books) API - Retrieve a specific work or edition by identifier
+* [Search](https://openlibrary.org/dev/docs/api/search) API - Search results for books, authors, and more
+
+A sample search page is shown below. Your application need not use the same design but should have similar functionality. Like provide a keyword to search, display results, click on a search result to show more details, pagination.
+![image](https://user-images.githubusercontent.com/410065/206938572-ebd9585e-e0b6-4120-81ea-14a49b840e0d.png)
+
+Bonus points if additional functionality is implemented, e.g., faceted search
+## Submission
+
+- Complete the task by the deadline and submit the code to the publicly accessible repository.
+  - Early submissions are welcome
+- For any doubts/clarifications regarding the contest, please go to the [_Issues_](https://github.com/venmurasu-programming-team/2022-Dec-Contest/issues) and raise your question
+  (without posting your code or implementation details)
+- Please document your strategy of implementation in detail in the repo's README
+- Results would be announced within a week after the deadline.
+
+## Selection
+
+Teams will be qualified based on the following critieria:
+* Sucessfully build the application based on instructions( weightage - 10% )
+* Search functionality implemented and working  ( weightage - 30% )
+* Usability and User Interface ( weightage - 20% )
+* Display individual Book details ( weightage - 20% )
+* Code quality and documentation (weightage - 20% )
