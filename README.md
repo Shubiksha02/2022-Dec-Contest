@@ -26,7 +26,7 @@ A sample search page is shown below. Your application need not use the same desi
 Bonus points if additional functionality is implemented, e.g., faceted search
 ## Submission
 
-- The final code should be uploaded to a Github repository with project name `vpt-2002-dec-<Team Name>` by 8:00pm. The project can be a public repository or if you want to keep it as private repository add github user names `cmrajan`, `visu`,`arulrajnet` as read-only collaborators.
+- The final code should be uploaded to a Github repository with project name `vpt-2022-dec-<Team Name>` by 8:00pm. The project can be a public repository or if you want to keep it as private repository add github user names `cmrajan`, `visu`,`arulrajnet` as read-only collaborators.
 - Complete the task by the deadline and submit the code to Github.
   - Early submissions are welcome
 - For any doubts/clarifications regarding the contest, please go to the [_Issues_](https://github.com/venmurasu-programming-team/2022-Dec-Contest/issues) and raise your question
